@@ -1,2 +1,2 @@
-# Gen_Trans_HNSCC_prim_relapsed
+# HNSCC-GenTrans-PrimRelapse 
 Transcriptional and genomic heterogeneity in primary and relapsed HNSCC
